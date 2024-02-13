@@ -1,0 +1,14 @@
+{
+    "name": "node-project",
+    "version": "1.0.0",
+    "description": "A multi-route http server using Node.js core modules.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Mohamed",
+    "license": "MIT",
+    "dependencies": {
+        "marvel-comics-characters": "^1.1.1"
+    }
+}
