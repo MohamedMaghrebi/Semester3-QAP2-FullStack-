@@ -1,0 +1,3 @@
+2024-02-12 10:20:00 - Error: ENOENT: no such file or directory, open 'nonexistentfile.txt'
+2024-02-12 10:25:00 - Error: EACCES: permission denied, open 'protectedfile.txt'
+2024-02-12 10:30:00 - Error: Invalid request received
